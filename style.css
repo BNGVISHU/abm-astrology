@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#search_button_for_navbar{
+    color: orange;
+    border: 0.5px solid orange;
+}
+
+#search_button_for_navbar:hover{
+    background-color: orange;
+    border: 0.5px solid orange;
+    color: white;
+}
+
+#main_navbar a{
+    color: orange;
+}
+
+#main_navbar{
+    background-color: rgb(84, 39, 10);
+}
+
+.main_introduction_slide_1{
+    padding: 70px;
+    background: url("res/background-slide.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+
+}
+
+.main_heading_introduction_paragraph{
+    font-size:45px;
+}
